@@ -7,6 +7,7 @@
 * creating socket.io connection .
 * firing events from the client th the server Also from the server to the clients. 
 
+
 # UML :
 ![](./labclass13.png)
 
